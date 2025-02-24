@@ -12,7 +12,7 @@ I'm a passionate individual aiming to transition into the **Data Analytics** fie
 ## 🛠️ Skills I'm Developing
 - **Data Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI  
 - **Data Cleaning & Visualization**  
-- **SQL (Upcoming)**  
+- **SQL**  
 - **Problem-Solving & Critical Thinking**  
 
 ---
