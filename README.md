@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jaykumar Tamkhane!
 
-🎯 **Aspiring Data Analyst** | 📊 **Python | Power BI Enthusiast** | 🏆 **Karate Black Belt | State Volleyball Player**
+🎯 **Aspiring Data Analyst** | 📊 **Python |
 
 ---
 
