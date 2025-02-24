@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jaykumar Tamkhane!
 
-🎯 **Aspiring Data Analyst** | 📊 **Python |
+🎯 **Aspiring Data Analyst** | 📊 **Python | 📊 **Power BI** | 📗 **Excel** | 🗄️ **SQL** Enthusiast
 
 ---
 
@@ -10,10 +10,11 @@ I'm a passionate individual aiming to transition into the **Data Analytics** fie
 ---
 
 ## 🛠️ Skills I'm Developing
-- **Data Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI  
-- **Data Cleaning & Visualization**  
-- **SQL**  
-- **Problem-Solving & Critical Thinking**  
+- **Programming & Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Data Visualization:** Power BI, Tableau (Upcoming)  
+- **Data Handling:** Excel (Pivot Tables, VLOOKUP, Data Cleaning), SQL (Joins, Aggregations)  
+- **Statistics & Analytical Thinking**  
+- **Problem-Solving & Critical Thinking**
 
 ---
 
