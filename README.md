@@ -1,40 +1,44 @@
-# 👋 Hi there, I'm Jaykumar Tamkhane!
+👋 Hi there, I'm Jaykumar Tamkhane!
 
-🎯 **Aspiring Data Analyst** | 📊 **Python | 📊 **Power BI** | 📗 **Excel** | 🗄️ **SQL** Enthusiast
+🚀 Aspiring Data Analyst | 📊 Python | 📊 Power BI | 📈 Excel | 🗄️ SQL Enthusiast
 
----
+📖 About Me
 
-## 💡 About Me
-I'm a passionate individual aiming to transition into the **Data Analytics** field within the next 6 months. With a strong drive for problem-solving and analytical thinking, I'm currently building my portfolio with real-world projects like **Stock Market Data Analysis** and a **Laptop Recommendation System** for data scientists.
+I'm a passionate individual aiming to transition into the Data Analytics field within the next 6 months. With a strong drive for problem-solving and analytical thinking, I'm currently building my portfolio with real-world projects like Fraud Detection Data Analysis Project.
 
----
+🛠️ Skills I'm Developing
 
-## 🛠️ Skills I'm Developing
-- **Programming & Data Analysis:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Data Visualization:** Power BI, Tableau (Upcoming)  
-- **Data Handling:** Excel (Pivot Tables, VLOOKUP, Data Cleaning), SQL (Joins, Aggregations)  
-- **Statistics & Analytical Thinking**  
-- **Problem-Solving & Critical Thinking**
+Programming & Data Analysis: Python (Pandas, Numpy, Matplotlib, Seaborn)
 
----
+Data Visualization: Power BI, Tableau (Upcoming)
 
-## 📈 Current Projects
-- 📊 **Laptop Recommendation System** — Analyzing laptop specs to recommend the best laptops for data scientists using Python & Power BI  
-- 💹 **Stock Market Data Analysis** — Exploring trends & insights from historical market data  
+Data Handling: Excel (Pivot Tables, VLOOKUP, Data cleaning, SQl, Joins, Aggregations)
 
----
+Statistics & Analytical Thinking
 
-## 🚀 What I'm Aiming For
-- 💼 Land an **entry-level Data Analyst** role  
-- 🧠 Master tools like **SQL, Excel, and Tableau**  
-- 🌟 Build a portfolio with impactful data projects  
+Problem-Solving & Critical Thinking
 
----
+📂 Current Projects
 
-## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/jay-tamkhane-337657206)  
-💌 *Feel free to reach out for collaborations, opportunities, or just to say hi!*
+📊 Fraud Detection Data Analysis Project — Identifying fraudulent patterns in financial datasets using Python & machine learning techniques
 
----
+📜 Certifications
 
-*"Turning data into insights, one project at a time."* 🚀
+Data Analytics Job Simulation — Forage (March 2025)
+
+Data preparation and customer analytics
+
+Experimentation and uplift testing
+
+Analytics and commercial application
+
+[View Certificate](https://drive.google.com/file/d/1NaZUbu4qwmrccax1pwC2am6D0G_pPqI8/view?usp=sharing)
+
+🎯 What I'm Aiming For
+
+Land an entry-level Data Analyst role
+
+Master tools like SQL, Excel, and Tableau
+
+Build a portfolio with impactful data projects
+
