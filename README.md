@@ -27,13 +27,13 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
 
 - Transition into a full-time Data Analyst or Data Scientist role in the next few months, leveraging my technical skills to create impactful solutions.
 
-📩 Reach me at: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaytamkhane161@gmail.com)  
+📩 Reach me at: [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jaytamkhane161@gmail.com)  
 🔗 Explore all my projects at: [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayTamkhane)
 
 ---
 
 ### 🔗 Important Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/jay-tamkhane)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jay-tamkhane)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayTamkhane)
 
 ---
