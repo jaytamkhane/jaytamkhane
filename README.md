@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
 ---
 
 ### 🔗 Important Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/jay-tamkhane)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayTamkhane)
 
 ---
