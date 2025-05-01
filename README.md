@@ -1,6 +1,7 @@
 ![Jay's Banner](https://github.com/jaytamkhane/jaytamkhane/blob/main/Jay_Banner.png)
 
-# Hi 👋, I'm Jay Tamkhane
+<h1 align="center">Hi 👋, I'm Jay Tamkhane</h1>
+
 
 Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Analyst. I'm passionate about turning raw data into actionable insights and solving real-world problems.
 
