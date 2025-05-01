@@ -1,44 +1,59 @@
-👋 Hi there, I'm Jaykumar Tamkhane!
+<img src="https://raw.githubusercontent.com/JayTamkhane/JayTamkhane/main/Jay-%20Banner.png" width="100%">
 
-🚀 Aspiring Data Analyst | 📊 Python | 📊 Power BI | 📈 Excel | 🗄️ SQL Enthusiast
+# Hi 👋, I'm Jay Tamkhane
 
-📖 About Me
+Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Analyst. I'm passionate about turning raw data into actionable insights and solving real-world problems.
 
-I'm a passionate individual aiming to transition into the Data Analytics field within the next 6 months. With a strong drive for problem-solving and analytical thinking, I'm currently building my portfolio with real-world projects like Fraud Detection Data Analysis Project.
+---
 
-🛠️ Skills I'm Developing
+## 💡 What I do:
 
-Programming & Data Analysis: Python (Pandas, Numpy, Matplotlib, Seaborn)
+- Data Analysis & Visualization using Python, Power BI, and SQL
 
-Data Visualization: Power BI, Tableau (Upcoming)
+- Machine Learning for predictive modeling, classification, and clustering
 
-Data Handling: Excel (Pivot Tables, VLOOKUP, Data cleaning, SQl, Joins, Aggregations)
+- Cloud Computing with AWS to build scalable and robust data solutions
 
-Statistics & Analytical Thinking
+- Fraud Detection projects using data analytics and machine learning algorithms
 
-Problem-Solving & Critical Thinking
+## 📚 Learning:
 
-📂 Current Projects
+- Diving deeper into AWS for certification (AWS Certified Developer – Associate)
 
-📊 Fraud Detection Data Analysis Project — Identifying fraudulent patterns in financial datasets using Python & machine learning techniques
+- Building out more data-driven projects to enhance my portfolio
 
-📜 Certifications
+## 🚀 Goal: 
 
-Data Analytics Job Simulation — Forage (March 2025)
+- Transition into a full-time Data Analyst or Data Scientist role in the next few months, leveraging my technical skills to create impactful solutions.
 
-Data preparation and customer analytics
+📩 Reach me at: [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaytamkhane161@gmail.com)  
+🔗 Explore all my projects at: [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayTamkhane)
 
-Experimentation and uplift testing
+---
 
-Analytics and commercial application
+### 🔗 Important Links
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/JayTamkhane)
 
-[View Certificate](https://drive.google.com/file/d/1NaZUbu4qwmrccax1pwC2am6D0G_pPqI8/view?usp=sharing)
+---
 
-🎯 What I'm Aiming For
+### 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-Land an entry-level Data Analyst role
+---
 
-Master tools like SQL, Excel, and Tableau
+### 📊 GitHub Stats
 
-Build a portfolio with impactful data projects
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayTamkhane&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JayTamkhane&layout=compact&theme=dark)
 
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=JayTamkhane&color=blue)
