@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JayTamkhane/JayTamkhane/main/Jay-%20Banner.png" width="100%">
+![Jay's Banner](https://github.com/jaytamkhane/jaytamkhane/blob/main/Jay_Banner.png)
 
 # Hi 👋, I'm Jay Tamkhane
 
