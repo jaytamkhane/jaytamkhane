@@ -1,4 +1,4 @@
-![Jay's Banner]()
+![Jay's Banner](https://github.com/jaytamkhane/jaytamkhane/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Jay Tamkhane</h1>
 
