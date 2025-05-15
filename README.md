@@ -52,6 +52,12 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 ![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayTamkhane&show_icons=true&theme=dark)
