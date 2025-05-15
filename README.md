@@ -51,14 +51,9 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
   <a href="https://dev.mysql.com/downloads/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
   </a>
-    <!-- Power BI (Triple-Verified Working) -->
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <!-- Primary Option: Microsoft CDN -->
-  <img src="https://microsoft.github.io/PowerBI-Icons/SVG/Power-BI.svg" 
-       onerror="this.onerror=null;this.src='https://i.ibb.co/6YQq8j0/powerbi-logo.png'"
-       alt="Power BI" 
-       width="40"
-       style="border: 2px solid #F2C811; border-radius: 5px; padding: 2px;"/>
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/en-us/downloads/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Power BI" width="40"/>
   </a>
   <!-- Tableau -->
   <a href="https://www.tableau.com/products/desktop/download" target="_blank" rel="noreferrer">
@@ -80,12 +75,6 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
   <a href="https://jupyter.org/install" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Thank+you+for+visiting!" alt="Typing SVG" />
 </p>
 
 ---
