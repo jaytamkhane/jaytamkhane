@@ -1,6 +1,8 @@
 ![Jay's Banner](https://github.com/jaytamkhane/jaytamkhane/blob/main/Banner.png)
 
-<h1 align="center">Hi 👋, I'm Jay Tamkhane</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There+👋!;I'm+Jay+Tamkhane!" alt="Typing SVG" />
+</p>
 
 
 Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Analyst. I'm passionate about turning raw data into actionable insights and solving real-world problems.
