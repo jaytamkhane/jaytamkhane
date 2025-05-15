@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <!-- Power BI -->
+  <!-- Power BI (fixed logo) -->
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40"/>
   </a>
