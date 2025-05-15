@@ -51,9 +51,9 @@ Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Ana
   <a href="https://dev.mysql.com/downloads/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/>
   </a>
-  <!-- Power BI (FIXED LINK) -->
+  <!-- Power BI -->
   <a href="https://powerbi.microsoft.com/downloads/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI" width="40"/>
+    <img src="https://i.imgur.com/KC9wLtN.png" alt="Power BI" width="40"/>
   </a>
   <!-- Tableau -->
   <a href="https://www.tableau.com/products/desktop/download" target="_blank" rel="noreferrer">
