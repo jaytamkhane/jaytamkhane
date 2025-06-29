@@ -5,7 +5,8 @@
 </p>
 
 
-Welcome to my GitHub profile! I'm a Data Science intern and an aspiring Data Analyst. I'm passionate about turning raw data into actionable insights and solving real-world problems.
+Welcome to my GitHub profile!
+I'm a Data Science Intern and an aspiring Data Analyst, passionate about transforming raw data into meaningful insights and solving real-world business problems through data.
 
 ---
 
